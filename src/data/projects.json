@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Attendance Web App",
+    "imageSrc": "projects/project1.png",
+    "description": "Developed an attendance app, offering a modern and online alternative to traditional offline attendance methods",
+    "skills": ["React", "Django", "MySQL", "Tailwind Css"],
+    "demo": "#",
+    "source": "https://www.github.com/rj225/"
+  },
+  {
+    "title": "Coledra Clouds",
+    "imageSrc": "projects/coledra.png",
+    "description": "Developed a static website on clouds for a seamless and responsiveuser experience.",
+    "skills": ["Bootstrap", "Jquery", "Javascript", "Animate.css"],
+    "demo": "https://rj225.github.io/Coledra_Clouds/",
+    "source": "https://www.github.com/rj225/Coledra_Clouds/"
+  },
+  {
+    "title": "Workfolio",
+    "imageSrc": "projects/jyosna mam.png",
+    "description": "Developed a Jyoshnamayee parida’s portfolio website, blending past achievements and future goals.",
+    "skills": ["HTML5" , "CSS3" , "Bootstrap" , "Jquery" , "Javascript"],
+    "demo": "https://rj225.github.io/jyosna2/",
+    "source": "https://www.github.com/rj225/jyosna2"
+  }
+]

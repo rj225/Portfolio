@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Hosting-Integrated Frontend Developer",
+    "organisation": "Coledra Clouds",
+    "startDate": "Sept, 2023",
+    "endDate": "Jan, 2023",
+    "experiences": ["Worked on Attendance web app", "Modern alternative to attendance"],
+    "imageSrc": "history/coledra.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Coledra Clouds ",
+    "startDate": "Apr, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": ["Worked on Static website", "Designed the UI/UX for the website"],
+    "imageSrc": "history/coledra.png"
+  },
+  {
+    "role": "Web Developer and Designer",
+    "organisation": "The Spark Foundation",
+    "startDate": "Jan, 2023",
+    "endDate": "Feb, 2023",
+    "experiences": [
+      "Worked on Food delivery web app",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
